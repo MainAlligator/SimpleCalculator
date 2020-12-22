@@ -3,8 +3,8 @@ package com.company;
 public class SimpleCalculator {
 
 
-    double firstNumber;
-    double secondNumber;
+    private double firstNumber;
+    private double secondNumber;
 
     public void setFirstNumber(double firstNumber) {
         this.firstNumber = firstNumber;
